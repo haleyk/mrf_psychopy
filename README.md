@@ -1,5 +1,15 @@
 # Resources for PsychoPy Information Session
-All credit to PsychoPy Authors, especially Jon Peirce at University of Nottingham
+All credit to PsychoPy Authors, especially Jon Peirce at University of Nottingham.
+
+All subfolders have their own readme's which are highly recommended before looking at any of this code.
+All mistakes my own.
+Email halk@brown.edu with questions.
+
+## Paper Description
+https://doi.org/10.3758/s13428-018-01193-y
+
+## Timing Study
+https://psyarxiv.com/d6nu5/
 
 ## Installation Instructions
 https://www.psychopy.org/download.html
@@ -27,4 +37,3 @@ https://www.psychopy.org/api/hardware/emulator.html
 
 ## Scanner Emulator
 https://github.com/psychopy/psychopy/blob/5c02dc511eea66a2df45dfc430d5fb655900cc8e/psychopy/hardware/emulator.py#L146
-

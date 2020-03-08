@@ -1,0 +1,70 @@
+4.5695 	WARNING 	Import Error: No module named 'psychtoolbox'. Using event module for keyboard component.
+8.5095 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x127597588>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x128c9e048>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.5095 	EXP 	window1: recordFrameIntervals = False
+8.6695 	EXP 	window1: recordFrameIntervals = True
+8.8540 	EXP 	window1: recordFrameIntervals = False
+8.9747 	EXP 	Created instruct = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instruct', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.9847 	EXP 	Created cur_face = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='cur_face', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+8.9924 	EXP 	Created end_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='end_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.0186 	EXP 	instruct: autoDraw = True
+10.2892 	DATA 	Keypress: space
+13.3119 	DATA 	Keypress: space
+13.4412 	EXP 	Imported face10_names.csv as conditions, 10 conditions, 2 params
+13.4583 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+13.4588 	EXP 	New trial (rep=0, index=0): OrderedDict([('ix', 5), ('face', 'stim/022324.png')])
+13.6262 	EXP 	instruct: autoDraw = False
+13.6262 	EXP 	cur_face: image = 'stim/022324.png'
+14.1107 	EXP 	cur_face: autoDraw = True
+14.5752 	DATA 	Keypress: 2
+15.3235 	DATA 	Keypress: 1
+15.6236 	DATA 	Keypress: q
+15.6354 	EXP 	New trial (rep=0, index=1): OrderedDict([('ix', 7), ('face', 'stim/022085.png')])
+15.7525 	EXP 	cur_face: autoDraw = False
+15.7525 	EXP 	cur_face: image = 'stim/022085.png'
+16.2391 	EXP 	cur_face: autoDraw = True
+16.4571 	DATA 	Keypress: p
+16.4585 	EXP 	New trial (rep=0, index=2): OrderedDict([('ix', 8), ('face', 'stim/022721.png')])
+16.5711 	EXP 	cur_face: autoDraw = False
+16.5711 	EXP 	cur_face: image = 'stim/022721.png'
+17.0555 	EXP 	cur_face: autoDraw = True
+17.2740 	DATA 	Keypress: p
+17.2753 	EXP 	New trial (rep=0, index=3): OrderedDict([('ix', 2), ('face', 'stim/022898.png')])
+17.3919 	EXP 	cur_face: autoDraw = False
+17.3919 	EXP 	cur_face: image = 'stim/022898.png'
+17.8729 	EXP 	cur_face: autoDraw = True
+18.0266 	DATA 	Keypress: q
+18.0280 	EXP 	New trial (rep=0, index=4): OrderedDict([('ix', 6), ('face', 'stim/022495.png')])
+18.1224 	EXP 	cur_face: autoDraw = False
+18.1224 	EXP 	cur_face: image = 'stim/022495.png'
+18.6082 	EXP 	cur_face: autoDraw = True
+18.8751 	DATA 	Keypress: q
+18.8768 	EXP 	New trial (rep=0, index=5): OrderedDict([('ix', 0), ('face', 'stim/022668.png')])
+18.9756 	EXP 	cur_face: autoDraw = False
+18.9756 	EXP 	cur_face: image = 'stim/022668.png'
+19.4559 	EXP 	cur_face: autoDraw = True
+19.7072 	DATA 	Keypress: p
+19.7086 	EXP 	New trial (rep=0, index=6): OrderedDict([('ix', 3), ('face', 'stim/022318.png')])
+19.8326 	EXP 	cur_face: autoDraw = False
+19.8326 	EXP 	cur_face: image = 'stim/022318.png'
+20.3233 	EXP 	cur_face: autoDraw = True
+20.5747 	DATA 	Keypress: q
+20.5762 	EXP 	New trial (rep=0, index=7): OrderedDict([('ix', 1), ('face', 'stim/022126.png')])
+20.7280 	EXP 	cur_face: autoDraw = False
+20.7280 	EXP 	cur_face: image = 'stim/022126.png'
+21.2232 	EXP 	cur_face: autoDraw = True
+21.3244 	DATA 	Keypress: p
+21.3258 	EXP 	New trial (rep=0, index=8): OrderedDict([('ix', 4), ('face', 'stim/022442.png')])
+21.4685 	EXP 	cur_face: autoDraw = False
+21.4685 	EXP 	cur_face: image = 'stim/022442.png'
+21.9572 	EXP 	cur_face: autoDraw = True
+22.1911 	DATA 	Keypress: q
+22.1925 	EXP 	New trial (rep=0, index=9): OrderedDict([('ix', 9), ('face', 'stim/022047.png')])
+22.3326 	EXP 	cur_face: autoDraw = False
+22.3326 	EXP 	cur_face: image = 'stim/022047.png'
+22.8231 	EXP 	cur_face: autoDraw = True
+23.0742 	DATA 	Keypress: p
+23.0894 	EXP 	cur_face: autoDraw = False
+25.0730 	EXP 	end_text: autoDraw = True
+25.5576 	DATA 	Keypress: space
+25.5727 	EXP 	end_text: autoDraw = False
+25.8603 	EXP 	window1: mouseVisible = True

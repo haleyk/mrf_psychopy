@@ -1,0 +1,68 @@
+1.9083 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+17.4898 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+18.4230 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x1334b8828>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x137dd3438>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+18.4231 	EXP 	window1: recordFrameIntervals = False
+18.5843 	EXP 	window1: recordFrameIntervals = True
+18.7685 	EXP 	window1: recordFrameIntervals = False
+19.1818 	EXP 	Created instruct = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instruct', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.4141 	EXP 	Created cur_face = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='cur_face', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+19.6404 	EXP 	Created end_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='end_text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.8846 	EXP 	instruct: autoDraw = True
+26.3282 	EXP 	Imported SHORT_TEST_face_names.csv as conditions, 10 conditions, 2 params
+26.3384 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+26.3390 	EXP 	New trial (rep=0, index=0): OrderedDict([('ix', 5), ('face', '022000/022324.png')])
+26.5373 	DATA 	Keypress: space
+26.5555 	EXP 	instruct: autoDraw = False
+26.5555 	EXP 	cur_face: image = '022000/022324.png'
+27.0554 	EXP 	cur_face: autoDraw = True
+28.1740 	DATA 	Keypress: a
+29.3426 	EXP 	New trial (rep=0, index=1): OrderedDict([('ix', 4), ('face', '022000/022442.png')])
+29.4506 	DATA 	Keypress: q
+29.4727 	EXP 	cur_face: autoDraw = False
+29.4727 	EXP 	cur_face: image = '022000/022442.png'
+29.9548 	EXP 	cur_face: autoDraw = True
+31.1723 	EXP 	New trial (rep=0, index=2): OrderedDict([('ix', 2), ('face', '022000/022898.png')])
+31.2630 	DATA 	Keypress: p
+31.2748 	EXP 	cur_face: autoDraw = False
+31.2748 	EXP 	cur_face: image = '022000/022898.png'
+31.7547 	EXP 	cur_face: autoDraw = True
+32.4730 	EXP 	New trial (rep=0, index=3): OrderedDict([('ix', 8), ('face', '022000/022721.png')])
+32.5806 	DATA 	Keypress: q
+32.6053 	EXP 	cur_face: autoDraw = False
+32.6053 	EXP 	cur_face: image = '022000/022721.png'
+33.0721 	EXP 	cur_face: autoDraw = True
+33.8062 	EXP 	New trial (rep=0, index=4): OrderedDict([('ix', 1), ('face', '022000/022126.png')])
+33.9163 	DATA 	Keypress: q
+33.9386 	EXP 	cur_face: autoDraw = False
+33.9386 	EXP 	cur_face: image = '022000/022126.png'
+34.4054 	EXP 	cur_face: autoDraw = True
+34.9059 	EXP 	New trial (rep=0, index=5): OrderedDict([('ix', 0), ('face', '022000/022668.png')])
+35.0078 	DATA 	Keypress: q
+35.0223 	EXP 	cur_face: autoDraw = False
+35.0223 	EXP 	cur_face: image = '022000/022668.png'
+35.5054 	EXP 	cur_face: autoDraw = True
+35.9558 	EXP 	New trial (rep=0, index=6): OrderedDict([('ix', 3), ('face', '022000/022318.png')])
+36.0637 	DATA 	Keypress: p
+36.0747 	EXP 	cur_face: autoDraw = False
+36.0747 	EXP 	cur_face: image = '022000/022318.png'
+36.5552 	EXP 	cur_face: autoDraw = True
+37.2226 	EXP 	New trial (rep=0, index=7): OrderedDict([('ix', 7), ('face', '022000/022085.png')])
+37.3329 	DATA 	Keypress: p
+37.3554 	EXP 	cur_face: autoDraw = False
+37.3554 	EXP 	cur_face: image = '022000/022085.png'
+37.8387 	EXP 	cur_face: autoDraw = True
+38.4726 	EXP 	New trial (rep=0, index=8): OrderedDict([('ix', 9), ('face', '022000/022047.png')])
+38.5624 	DATA 	Keypress: p
+38.5735 	EXP 	cur_face: autoDraw = False
+38.5735 	EXP 	cur_face: image = '022000/022047.png'
+39.0554 	EXP 	cur_face: autoDraw = True
+39.5065 	EXP 	New trial (rep=0, index=9): OrderedDict([('ix', 6), ('face', '022000/022495.png')])
+39.5973 	DATA 	Keypress: p
+39.6089 	EXP 	cur_face: autoDraw = False
+39.6089 	EXP 	cur_face: image = '022000/022495.png'
+40.0887 	EXP 	cur_face: autoDraw = True
+40.8907 	DATA 	Keypress: p
+40.9047 	EXP 	cur_face: autoDraw = False
+42.8886 	EXP 	end_text: autoDraw = True
+44.1551 	EXP 	end_text: autoDraw = False
+44.4595 	EXP 	window1: mouseVisible = True
