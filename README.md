@@ -26,6 +26,9 @@ https://www.psychopy.org/coder/tutorial1.html
 ## Online Studies to See Examples
 https://pavlovia.org
 
+## Information about how the online portion works
+https://www.psychopy.org/online/index.html
+
 ## Repository of Demos
 https://github.com/psychopy/psychopy/tree/5c02dc511eea66a2df45dfc430d5fb655900cc8e/psychopy/demos
 
